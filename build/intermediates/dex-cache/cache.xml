@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_3a22d46f56cc01eb3f962ff88032e5abd09ef720.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.0_0230218ceff0eb2bf39a39f90fd14f49e7fc4a33.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.0.0_50752ee99935fb3121839c87bf56dd3bda230e80.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_cb8b977b04d7a765fdda167c947980f32209f0db.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_904183af1e29299bd967ec3c877635cebbe3a121.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_f49b3bed702fc95534a7d19be01fb7e6263eed33.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_0e94516b969cbca0033ab9e0b8a1c05929f959bc.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.0_90584ab94f20384790b45a4341c69d0956239341.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/gson-2.4_cc8f127f6360ed65308592be2ce03e56bf5d2adb.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_8d8dee48af3e3c6f74d6d9cb5468c6f6244716e5.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.0_d85e4b0dc752629739cfce88411e8cbff3bb9ed4.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_4cd898db481a10b7b08d59c12d29eb94a633180d.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d18004c68f0a5c42aafa7a79ef9eb559fb32195a.jar" />
+    </item>
+    <item
+        jar="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/starhawk/Documents/GithubRepos/BeaconAppLNM/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.0_7b8455153c0151946f7cad174e2dd9862ee1beca.jar" />
+    </item>
+
+</items>

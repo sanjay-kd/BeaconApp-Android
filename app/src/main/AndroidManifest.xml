@@ -21,9 +21,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <meta-data
             android:name="com.google.android.nearby.messages.API_KEY"
-            android:value="AIzaSyDvHBgbR7aq9bSGq3wZwq4FDfesPba8rBk" />
+            android:value="AIzaSyDT0GWTJu4hN-wyRJ4y7CpwWiTg4r_e2b0" />
 
         <activity
             android:name="com.google.android.gms.nearby.messages.samples.hellobeacons.MainActivity"
